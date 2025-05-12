@@ -42,7 +42,7 @@ This repository reflects my learning curve and problem-solving approach as I pre
 ## 🔗 Repository Link
 
 Keep this URL handy for submission:  
-👉 [https://github.com/your-username/Internship_Tasks](https://github.com/your-username/Internship_Tasks)
+👉 https://github.com/Pravallika6167/Internship_Tasks
 
 ---
 
